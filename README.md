@@ -1,13 +1,13 @@
 # caps
 
 ## Github PR
-
+https://github.com/gerstej9/caps
 
 ## Github Actions
-
+https://github.com/gerstej9/caps/actions
 
 ## Heroku URLs
-
+https://jamesgersten-caps.herokuapp.com/
 
 ## UML
 ![](./assets/UML_lab11.jpg)
