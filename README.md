@@ -1,7 +1,7 @@
 # caps
 
 ## Github PR
-https://github.com/gerstej9/caps
+https://github.com/gerstej9/caps/pull/1
 
 ## Github Actions
 https://github.com/gerstej9/caps/actions
