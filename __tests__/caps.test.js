@@ -1,6 +1,6 @@
 'use strict';
 
-const events = require('../../index.js');
+const events = require('../index.js');
 console.log = jest.fn();
 
 describe('Testing the caps module', () =>{
