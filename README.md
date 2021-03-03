@@ -3,9 +3,8 @@
 ## Github PR
 ### Day 1
 https://github.com/gerstej9/caps/pull/1
-https://github.com/gerstej9/caps/pull/2
 ### Day 2
-
+https://github.com/gerstej9/caps/pull/3
 ## Github Actions
 https://github.com/gerstej9/caps/actions
 
