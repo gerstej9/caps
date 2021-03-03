@@ -1,0 +1,23 @@
+{
+  "name": "caps",
+  "version": "1.0.0",
+  "description": "## Github PR ### Day 1 https://github.com/gerstej9/caps/pull/1 https://github.com/gerstej9/caps/pull/2 ### Day 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerstej9/caps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerstej9/caps/issues"
+  },
+  "homepage": "https://github.com/gerstej9/caps#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
