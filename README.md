@@ -20,8 +20,9 @@ https://jamesgersten-caps.herokuapp.com/
 ### Day 2
 ![](./assets/UML_Lab12.jpg)
 
-### Day 2
-![](./assets/UML_Lab12.jpg)
+### Day 3
+![](./assets/UML_Lab13.jpg)
+
 
 ## Class notes
 ### Day 1
